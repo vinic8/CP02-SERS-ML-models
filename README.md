@@ -1,12 +1,13 @@
 # APIs de Energia Renovável e Aprendizado de Máquina
+## Integrantes
 
-integrantes
-[Vinicius Molena] — RM: [571270]
-[Matheus Ferreira] — RM: [569638]
-[Nathan Werner] — RM: [572925]
-[Gabriel Vilas] — RM: [571603]
-[Gustavo Henrique] — RM: [569921]
-[Ricardo Santos] — RM: [569600]
+* **Vinicius Molena** — RM: 571270
+* **Matheus Ferreira** — RM: 569638
+* **Nathan Werner** — RM: 572925
+* **Gabriel Vilas** — RM: 571603
+* **Gustavo Henrique** — RM: 569921
+* **Ricardo Santos** — RM: 569600
+
 
 ## Sobre o projeto
 
